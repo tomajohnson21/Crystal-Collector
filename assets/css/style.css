@@ -1,0 +1,69 @@
+body{
+    align-content: center;
+    text-align: center;
+    color: white;
+    background-image: url(../images/stone-tiles.jpg);
+    background-size: 400px;
+}
+
+.row{
+    margin-bottom: 30px;
+}
+
+.card{
+    background-color: #dae0e5;
+    border: transparent;
+}
+
+.card-header{
+    background-color: #545b62;
+}
+.instructions{
+    padding: 20px;
+}
+.card-text{
+    color: black;
+}
+
+.card-title{
+    color: black;
+    padding-top: 10px;
+}
+
+.game-title{
+    margin-top: 15px;
+    background-color: #545b62;
+    border-color: white;
+}
+
+.game-title-text{
+    color: white;
+}
+
+.loss-card{
+    margin-bottom: 0px;
+}
+
+.btn{
+    width: 100%;
+}
+
+.start-btn{
+    background-color: #545b62;
+    border-color: #dae0e5;
+    color: #dae0e5;
+}
+
+.reset-btn{
+    background-color: #dae0e5;
+    border-color: #545b62;
+    color: #545b62;
+}
+
+.crystals{
+    padding-top: 20px;
+}
+
+.gem{
+    height: 60px;
+}
